@@ -1,0 +1,44 @@
+main{
+	width: 800px;
+	height: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 30px;
+	font-size: 0px;
+}
+
+
+.block{
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.block-green{
+	width: 50%;
+	height: 200px;
+	background-color: green;
+}
+
+.block-blue{
+	width: 50%;
+	height: 200px;
+	background-color: blue;
+}
+
+.block-grey{
+	width: 33.3%;
+	height: 300px;
+	background-color: grey;
+}
+
+.block-black{
+	width: 33.3%;
+	height: 300px;
+	background-color: black;
+}
+
+.block-yellow{
+	width: 33.3%;
+	height: 300px;
+	background-color: yellow;
+}
